@@ -91,8 +91,8 @@ https://app.powerbi.com/links/29RFV7GfGs?ctid=b34c1d55-a43e-4a20-9218-a1a42eab14
 
 📌 Autor
 
-Thiago Wallace
-Engenheiro Cartógrafo e Agrimensor | Geotecnologias & IA | Data Analytics
-LinkedIn: https://www.linkedin.com/in/thiagowallace/ 
+Thiago Wallace  
+Engenheiro Cartógrafo e Agrimensor | Geotecnologias & IA | Data Analytics  
+LinkedIn: https://www.linkedin.com/in/thiagowallace/   
 E-mail: thiagowallacepaz@gmail.com
 
